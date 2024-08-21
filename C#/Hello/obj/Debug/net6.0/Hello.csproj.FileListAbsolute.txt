@@ -1,0 +1,14 @@
+/home/hongch666/桌面/code/C#/Hello/bin/Debug/net6.0/Hello
+/home/hongch666/桌面/code/C#/Hello/bin/Debug/net6.0/Hello.deps.json
+/home/hongch666/桌面/code/C#/Hello/bin/Debug/net6.0/Hello.runtimeconfig.json
+/home/hongch666/桌面/code/C#/Hello/bin/Debug/net6.0/Hello.dll
+/home/hongch666/桌面/code/C#/Hello/bin/Debug/net6.0/Hello.pdb
+/home/hongch666/桌面/code/C#/Hello/obj/Debug/net6.0/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/hongch666/桌面/code/C#/Hello/obj/Debug/net6.0/Hello.AssemblyInfoInputs.cache
+/home/hongch666/桌面/code/C#/Hello/obj/Debug/net6.0/Hello.AssemblyInfo.cs
+/home/hongch666/桌面/code/C#/Hello/obj/Debug/net6.0/Hello.csproj.CoreCompileInputs.cache
+/home/hongch666/桌面/code/C#/Hello/obj/Debug/net6.0/Hello.dll
+/home/hongch666/桌面/code/C#/Hello/obj/Debug/net6.0/refint/Hello.dll
+/home/hongch666/桌面/code/C#/Hello/obj/Debug/net6.0/Hello.pdb
+/home/hongch666/桌面/code/C#/Hello/obj/Debug/net6.0/Hello.genruntimeconfig.cache
+/home/hongch666/桌面/code/C#/Hello/obj/Debug/net6.0/ref/Hello.dll

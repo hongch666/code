@@ -1,0 +1,15 @@
+/home/hongch666/桌面/code/C#/MyConsoleApp/bin/Debug/net6.0/MyConsoleApp
+/home/hongch666/桌面/code/C#/MyConsoleApp/bin/Debug/net6.0/MyConsoleApp.deps.json
+/home/hongch666/桌面/code/C#/MyConsoleApp/bin/Debug/net6.0/MyConsoleApp.runtimeconfig.json
+/home/hongch666/桌面/code/C#/MyConsoleApp/bin/Debug/net6.0/MyConsoleApp.dll
+/home/hongch666/桌面/code/C#/MyConsoleApp/bin/Debug/net6.0/MyConsoleApp.pdb
+/home/hongch666/桌面/code/C#/MyConsoleApp/obj/Debug/net6.0/MyConsoleApp.csproj.AssemblyReference.cache
+/home/hongch666/桌面/code/C#/MyConsoleApp/obj/Debug/net6.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/hongch666/桌面/code/C#/MyConsoleApp/obj/Debug/net6.0/MyConsoleApp.AssemblyInfoInputs.cache
+/home/hongch666/桌面/code/C#/MyConsoleApp/obj/Debug/net6.0/MyConsoleApp.AssemblyInfo.cs
+/home/hongch666/桌面/code/C#/MyConsoleApp/obj/Debug/net6.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/home/hongch666/桌面/code/C#/MyConsoleApp/obj/Debug/net6.0/MyConsoleApp.dll
+/home/hongch666/桌面/code/C#/MyConsoleApp/obj/Debug/net6.0/refint/MyConsoleApp.dll
+/home/hongch666/桌面/code/C#/MyConsoleApp/obj/Debug/net6.0/MyConsoleApp.pdb
+/home/hongch666/桌面/code/C#/MyConsoleApp/obj/Debug/net6.0/MyConsoleApp.genruntimeconfig.cache
+/home/hongch666/桌面/code/C#/MyConsoleApp/obj/Debug/net6.0/ref/MyConsoleApp.dll
