@@ -1,0 +1,10 @@
+2024-07-26T13:24:41+00:00 hongch666#01 I: Start test test suite for sum:0:empty.
+2024-07-26T13:24:41+00:00 hongch666#01 I: Test test suite for sum:0:empty is successful.
+2024-07-26T13:24:41+00:00 hongch666#01 I: End test test suite for sum:0:empty.
+2024-07-26T13:24:41+00:00 hongch666#01 I: Start test test suite for sum:2:two_elements.
+2024-07-26T13:24:41+00:00 hongch666#01 E: Test test suite for sum:2:two_elements has failed.
+2024-07-26T13:24:41+00:00 hongch666#01 E: expected: 4 but got: 3 in test test suite for sum:2:two_elements.
+2024-07-26T13:24:41+00:00 hongch666#01 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2024-07-26T13:24:41+00:00 hongch666#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2024-07-26T13:24:41+00:00 hongch666#01 E: 
+2024-07-26T13:24:41+00:00 hongch666#01 I: End test test suite for sum:2:two_elements.
