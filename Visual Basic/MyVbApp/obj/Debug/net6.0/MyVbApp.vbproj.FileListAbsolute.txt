@@ -1,0 +1,15 @@
+/home/hongch666/桌面/code/Visual Basic/MyVbApp/bin/Debug/net6.0/MyVbApp
+/home/hongch666/桌面/code/Visual Basic/MyVbApp/bin/Debug/net6.0/MyVbApp.deps.json
+/home/hongch666/桌面/code/Visual Basic/MyVbApp/bin/Debug/net6.0/MyVbApp.runtimeconfig.json
+/home/hongch666/桌面/code/Visual Basic/MyVbApp/bin/Debug/net6.0/MyVbApp.dll
+/home/hongch666/桌面/code/Visual Basic/MyVbApp/bin/Debug/net6.0/MyVbApp.pdb
+/home/hongch666/桌面/code/Visual Basic/MyVbApp/obj/Debug/net6.0/MyVbApp.vbproj.AssemblyReference.cache
+/home/hongch666/桌面/code/Visual Basic/MyVbApp/obj/Debug/net6.0/MyVbApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/hongch666/桌面/code/Visual Basic/MyVbApp/obj/Debug/net6.0/MyVbApp.AssemblyInfoInputs.cache
+/home/hongch666/桌面/code/Visual Basic/MyVbApp/obj/Debug/net6.0/MyVbApp.AssemblyInfo.vb
+/home/hongch666/桌面/code/Visual Basic/MyVbApp/obj/Debug/net6.0/MyVbApp.vbproj.CoreCompileInputs.cache
+/home/hongch666/桌面/code/Visual Basic/MyVbApp/obj/Debug/net6.0/MyVbApp.dll
+/home/hongch666/桌面/code/Visual Basic/MyVbApp/obj/Debug/net6.0/refint/MyVbApp.dll
+/home/hongch666/桌面/code/Visual Basic/MyVbApp/obj/Debug/net6.0/MyVbApp.pdb
+/home/hongch666/桌面/code/Visual Basic/MyVbApp/obj/Debug/net6.0/MyVbApp.genruntimeconfig.cache
+/home/hongch666/桌面/code/Visual Basic/MyVbApp/obj/Debug/net6.0/ref/MyVbApp.dll
